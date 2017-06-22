@@ -1,3 +1,4 @@
 title: Will Shek
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: minima
